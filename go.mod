@@ -1,4 +1,4 @@
-module github.com/juishuyeh/todo-cli
+module github.com/juishuyeh/todo_cli
 
 go 1.25.1
 

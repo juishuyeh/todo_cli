@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/yourname/todo-cli)](https://golang.org/)
 [![License](https://img.shields.io/github/license/yourname/todo-cli)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/juishuyeh/todo-cli)](https://goreportcard.com/report/github.com/juishuyeh/todo-cli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/juishuyeh/todo_cli)](https://goreportcard.com/report/github.com/juishuyeh/todo_cli)
 
 一個簡潔優雅的終端機待辦事項管理工具，使用 Go 和 SQLite 構建。
 
@@ -18,4 +18,4 @@
 
 ### 使用 Go Install（推薦）
 ```bash
-go install github.com/juishuyeh/todo-cli/cmd/todo@latest
+go install github.com/juishuyeh/todo_cli/cmd/todo@latest
