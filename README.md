@@ -1,3 +1,5 @@
+# 功能未完整實現，請期待後續更新！
+
 # Todo CLI
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/yourname/todo-cli)](https://golang.org/)
