@@ -36,8 +36,8 @@ go.work.sum
 *.dll
 *.so
 *.dylib
-todo
-todo-cli
+/todo
+/todo-cli
 dist/
 
 # Test binary
